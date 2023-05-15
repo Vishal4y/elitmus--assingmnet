@@ -30,7 +30,7 @@ export default function Footer() {
           }}
         >
           <Typography variant="body2" color="black">
-            Made with ❤️ by Anjali
+            Made with ❤️ by Vishal
           </Typography>
         </Container>
       </Box>
